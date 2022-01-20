@@ -1,1 +1,3 @@
-info
+config:
+  info: "我是config-dev!"
+ 
